@@ -1,5 +1,5 @@
 
-import QRcode from "../assets/Qrcode.png";
+import QRcode from "../assets/QRcode.png";
 import techStack from "../assets/techStack.png";
 
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
